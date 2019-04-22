@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Climate_Controller">
+
+    <LinearLayout
+        android:layout_margin="15dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:src="@drawable/climatecontroller"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent" />
+        <TextView
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="What is CO2e \n                More help on being Climate friendly  ?"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\nThere are a lot of gases except carbon dioxide that affects our climate. The term GHG, short for Greenhouse Gases. are gases that trap heat within the earth's atmosphere just like CO2 " />
+        <TextView
+            android:text="\nCO2e, or 'carbon dioxide equivalent, is a measuring unit that has been standardized in order to be able to measure the impact that the rest of the GHG has. The unit expresses any GHG emission in terms of how much CO2 would be needed to achieve the same impact on the climate and uses standard ratios to convert from any GHG to its CO2. By using the CO2e, we are able to measure and compare different products total impact on the environment in an easy way. "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:text="\nThere are four GHGs, namely "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textStyle="italic"
+            android:textSize="20dp"
+            android:text="Carbon dioxide (CO2) :"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+           android:text="\tTaking up 82% of all GHG emissions. CO2 is the most usual of all the gases. Its emissions is a result of a variety of different usage of energy, from the burning of fossil fuels to solid waste to wood, and it even gets released from some chemical reactions, such as the creation of cement "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textStyle="italic"
+            android:textSize="20dp"
+            android:text="\nMethane (CH4) :"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="\t1.1ethane takes up roughly 10% of the GHG emissions and is emitted mainly during production and transport of coal, natural gas, and oil. As it is a natural gas. it also emits from livestock and organic waste. "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textStyle="italic"
+            android:textSize="20dp"
+            android:text="\nNitrous oxide (N20) "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="\tNitrous oxide stands for ca 5%, and emits during combustion of fossil fuels and solid waste as welt as both industrial and agricultural production activities. "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textStyle="italic"
+            android:textSize="20dp"
+            android:text="\nFluorinated gaces  "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="\tFluorinated gases (F-gases) are man-made gases that can stay in the atmosphere for centuries and contribute to a global greenhouse effect. \n \n "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+    </LinearLayout>
+</ScrollView>

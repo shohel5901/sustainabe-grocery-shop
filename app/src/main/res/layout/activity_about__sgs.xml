@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".About_SGS"
+    >
+    <LinearLayout
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/t1"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:text="@string/firstTitle"/>
+    <TextView
+        android:id="@+id/t12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Food represents one fifth of an average family’s footprint, according to the US Union of Concerned Scientists. This means that when you’re doing your shopping you can choose to respect the environment.What are the right steps for a sustainable grocery shopping?"/>
+    <TextView
+        android:id="@+id/p1"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:text="@string/point1"/>
+    <TextView
+        android:id="@+id/p12"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:text="@string/point1par"/>
+    <TextView
+        android:id="@+id/p2"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:text="@string/point2"/>
+    <TextView
+        android:id="@+id/p21"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:text="@string/point2par"/>
+    <TextView
+        android:id="@+id/p3"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:text="@string/point3"/>
+    <TextView
+        android:id="@+id/p31"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:text="@string/point3par"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:src="@drawable/about_sgs"/>
+
+    <TextView
+        android:id="@+id/p4"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:text="@string/point4"/>
+    <TextView
+        android:id="@+id/p41"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:text="@string/point4par"/>
+    <TextView
+        android:id="@+id/p5"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:text="@string/point5"/>
+    <TextView
+        android:id="@+id/p51"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:text="@string/point5par"/>
+    <TextView
+        android:id="@+id/p6"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:text="@string/point6"/>
+    <TextView
+        android:id="@+id/p61"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:text="@string/point6par"/>
+    <TextView
+        android:id="@+id/p7"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:text="@string/point7"/>
+    <TextView
+        android:id="@+id/p71"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:text="@string/point7par"/>
+
+
+      </LinearLayout>
+    </ScrollView>

@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">SGS</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_email">Change Email</string>
+    <string name="delete_user">Delete User</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="logo">LOGO</string>
+
+    <string name="contact_form_name">Your Name</string>
+    <string name="contact_form_email">Your Email</string>
+    <string name="contact_form_subject">Subject</string>
+    <string name="contact_form_message">Message</string>
+    <string name="contact_form_button">Send Message</string>
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the support department...</string>
+    <string name="contact_posted">Your message has been successfully delivered.</string>
+
+    <string name="firstTitle"> Is it possible to do grocery shopping whilst reducing CO2 emissions? Yes,
+        it is. Follow these 7 simple tips for a sustainable diet. \n </string>
+    <string name="first2">Food represents one fifth of an average family’s footprint, according to the US Union of Concerned Scientists. This means that when you’re doing your shopping you can choose to respect the environment What are the right steps for a sustainable grocery shopping?</string>
+    <string name="point1">\n 1- Organic saves and absorbs CO2: </string>
+    <string name="point1par">Besides consuming less energy and emitting less greenhouse gases,organic agriculture is a carbon “tank”: every cultivated hectare absorbs 1.5 tonne of CO2. The FAO,in its “Organic agriculture and food security” report,states that “the strongest feature of organic agriculture is its reliance on fossil-fuelindependent and locally-available production assets; working with natural processes increasescost-effectiveness and resilience of agro-ecosystems to climatic stress”. Moreover,organic stock farming produces fewer emissions,thanks to the diet of livestock and a reduced amount of animals. </string>
+    <string name="point2">\n 2- Seasonal foods cost less, also for the environment: </string>
+    <string name="point2par">An informed consumer knows that presuming to eat every kind of food all the year is anachronistic, expensive and not savoury. Vegetables out of season are grown in greenhouses, where a high amount of energy is required to artificially recreate the ideal cultivation conditions, bringing about unsustainable environmental costs. Moreover, sometimes the energy intensive greenhouses are not enough, we thus have to import food from other countries. Seasonal products are more savoury, rich in nutrients and impact less on the environment. They grow in natural atmospheric conditions; they are not subject to chemical treatments and they waste less energy. </string>
+
+    <string name="point3">\n 3- The food is always greener on the other side of the fence: </string>
+    <string name="point3par">Food products coming from far away require complex supply chains and long-haul transportations, that means less sustainability. The short food supply chain is characterized by short distance between producers and consumers, it reduces transports, packaging and costs, all to the good of the environment. You’d better choose local and organic products if you want to contribute to decrease CO2 emissions, which are responsible for the greenhouse effect. Moreover, foods coming from far are only apparently fresh: effectively they are picked unripe, conserved in refrigerators with modified atmosphere, treated with pesticides, and they lose most of their vitamin content and flavour. </string>
+
+    <string name="point4">\n 4- Less meat helps the environment: </string>
+    <string name="point4par">A dish containing meat and other imported products generates 9 times more CO2 than a vegetarian dish containing local products, according to studies by the University of Stockholm. 1 kg of meat requires 10 kg of cereals and forage, whilst using an area ten times larger than the required one by an equivalent vegetal diet. The production of 1 kg of meat produces the emission of 20.4 kg of CO2 equivalent, while for the same amount of legumes the average emission is 26 times lower. The water consumption for 1 kg of meat is 15,500 litres, while 1 kg of vegetables requires only 100 litres. Moreover, cattle manure emits a large amount of natural gas and nitrogen oxide, harmful greenhouse gases. </string>
+
+    <string name="point5">\n 5- Packaging? No, thanks : </string>
+    <string name="point5par">When possible, it’s better to buy packaging-free products. Wrappers and packaging material have a significant environmental impact and contain chemicals that can potentially migrate into foods. When packaging is necessary, it’s better if it is recycled, such as bio-plastic or FSC-certified paper, designed to save space and raw material. </string>
+
+    <string name="point6">\n 6- Better fresh than preserved and processed : </string>
+    <string name="point6par">It’s always a good thing reading labels to buy unprocessed products, with a reduced amount of additives. The more a food product is processed, aromatized, coloured or irradiated, the more harmful additives it contains, and by consequence, it is poor in nutrients. Moreover, fresh foods require lower energy consumption.</string>
+
+    <string name="point7">\n 7- Use your car in a smart way : </string>
+    <string name="point7par">Let’s admit it, we go grocery shopping by car, especially if we live far from supermarkets. But you could plan your shopping together with other activities requiring the car, in order to reduce pollution and time. Moreover, you can carpool with your neighbours or friends to go to your trusted grocery. \n\n </string>
+
+    <string-array name="header">
+        <item>Fish</item>
+        <item>Healthy nuts</item>
+        <item>Berries</item>
+        <item>Flaxseeds</item>
+        <item>Oatmeal</item>
+        <item>Dark beans</item>
+        <item>red wine</item>
+        <item>Tofu</item>
+        <item>Veggies</item>
+        <item>Spinach</item>
+        <item>Fruits</item>
+        <item>Asparagus</item>
+        <item>Tomatoes</item>
+        <item>Dark chocolate</item>
+        <item>Broccol</item>
+    </string-array>
+
+    <string-array name="child">
+        <item>Eat fish high in omega-3s, such as salmon, tuna, mackerel, herring and trout.</item>
+        <item>A handful of healthy nuts such as almonds or walnuts will satisfy your hunger and help your heart.</item>
+        <item>Berries are chock full of heart-healthy phytonutrients and soluble fiber. Try blueberries, strawberries, cranberries or raspberries in cereal or yogurt.</item>
+        <item>Flaxseeds contain omega-3 fatty acids, fiber and phytoestogens to boost heart health. Take them in ground or milled form to reap the greatest benefit.</item>
+        <item>Oatmeal: the comfort-food nutrient powerhouse.</item>
+        <item>Dark beans,such as kidney or black beans, are high in fiber, B-vitamins, minerals and other good stuff. Veggie chili, anyone?</item>
+        <item>A 4-ounce glass of red wine (up to two for men and one for women per day) can help improve good (HDL) cholesterol levels.</item>
+        <item>Try marinated tofu in a stir-fry with fresh veggies for a heart-healthy lunch or dinner.</item>
+        <item>Red, yellow and orange veggies such as carrots, sweet potatoes, red peppers and acorn squash are packed with carotenoids, fiber and vitamins to help your heart.</item>
+        <item>Popeye was right – spinach packs a punch! Use it in sandwiches and salads instead of lettuce.</item>
+        <item>Fruits such as oranges, cantaloupes and papaya are rich in beta-carotene, potassium, magnesium and fiber.</item>
+        <item>Tender, sweet asparagus is filled with mighty nutrients such as beta-carotene, folate and fiber, and only provide 25 calories per cup, or 5 calories per large spear.</item>
+        <item>Tomatoes – even sun-dried varieties in winter months – provide lycopene, vitamin C and alpha- and beta-carotene.</item>
+        <item>Dark chocolate is good for your heart health, but just be sure that it’s at least 70 percent cocoa.</item>
+        <item>Crisp, fresh broccoli florets dipped in hummus are a terrific heart-healthy snack with a whopping list of nutrients, including vitamins C and E, potassium, folate, calcium and fiber.</item>
+    </string-array>
+
+    <string name="diabates">Type 2 diabetes</string>
+    <string name="heart">Heart health</string>
+    <string name="strong">Strong bones and teeth</string>
+    <string name="manage">How to manage your weight</string>
+
+    <string name="paradiabates">Maintaining a healthy weight and eating a balanced diet thats low in saturated fat and high in fibre found in whole grains can help to reduce your risk of developing type 2 diabetes.</string>
+    <string name="paraheart">A healthy diet rich in fruits, vegetables, whole grains and low-fat dairy can help to reduce your risk of heart disease by maintaining blood pressure and cholesterol levels.High blood pressure and cholesterol can be a symptom of too much salt and saturated fats in your diet.</string>
+    <string name="parastrong">A diet rich in calcium keeps your teeth and bones strong and can help to slow bone loss associated with getting older.As vitamin D helps your body absorb calcium, make sure you get outside (your body gets vitamin D from the sun) and have plenty of foods containing vitamin D in your diet such as oily fish and fortified cereals.</string>
+    <string name="paramanage">Eating a healthy diet that includes lots of fruit, vegetables, whole grains and a moderate amount of unsaturated fats, meat and dairy can help you maintain a steady weight. Having a good variety of these foods every day leaves less room for foods that are high in fat and sugar.a leading cause of weight gain.</string>
+
+
+
+</resources>
+
+
+
+
+
